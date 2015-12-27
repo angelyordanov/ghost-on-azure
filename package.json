@@ -1,0 +1,6 @@
+{
+  "name": "blog",
+  "dependencies": {
+    "ghost": "0.7.3"
+  }
+}

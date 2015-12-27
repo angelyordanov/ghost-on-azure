@@ -1,0 +1,11 @@
+node_modules
+
+/content/apps/**/*
+!/content/apps/README.md
+/content/data/**/*
+!/content/data/README.md
+/content/images/**/*
+!/content/images/README.md
+
+#OS X related
+.DS_Store
